@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95cae39b-e152-4e6c-a1d4-44853547182d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Задание 3/BaseTrader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Задание 4/SphereType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Задание 4/WinCheker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Задание 4/SphereDestroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Задание 4/SpheresData.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scenes/Задание 2/IGun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Задание 2/Gun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Задание 2/Gun1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Задание 2/Gun2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/Задание 2/Gunner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 2/AbstractGun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 2/Gunner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 3/NotSellingTrader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 3/BaseTrader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/ColorType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/RomoverSphereFromList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/RemoverSphereFromList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/SphereType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/AbsWinCondition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/SphereDestroyer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/SphereData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/WinCondition1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/WinCondition2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/AbstractWinCondition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/SpheresData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 4/WinCheker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Задание 1.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2VFackqjZ0dxHsGEzEET1ChsI8c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys_rider" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95cae39b-e152-4e6c-a1d4-44853547182d" name="Default Changelist" comment="" />
+      <created>1694434364769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694434364769</updated>
+      <workItem from="1694434368839" duration="5992000" />
+      <workItem from="1694538494906" duration="1994000" />
+      <workItem from="1694545343231" duration="5285000" />
+      <workItem from="1694613054828" duration="3803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1694549948302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1694549948302" />
+    <state x="788" y="205" key="RiderGenerateDialog" timestamp="1694538871412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1132" y="205" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1694436014301" />
+    <state x="788" y="205" key="RiderGenerateDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1694538871412" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1694439590448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1694439590448" />
+  </component>
+</project>
